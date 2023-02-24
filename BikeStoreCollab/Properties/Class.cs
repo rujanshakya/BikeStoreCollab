@@ -2,7 +2,7 @@
 
 namespace BikeStoreCollab.Properties
 { 
-   class program
+   class algorithm
     {
         public static void Main(string[]args)
         {
