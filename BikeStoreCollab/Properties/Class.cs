@@ -1,14 +1,17 @@
-﻿using System.Net.Security;
+﻿using System;
 
 namespace BikeStoreCollab.Properties
 { 
-   class Class
+
+   class program
+
     {
         public static void Main(string[]args)
         {
             Console.WriteLine("hello world");
-          
+           
         }
     }
+    Console.ReadLine();
 }
 
