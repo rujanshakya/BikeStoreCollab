@@ -2,7 +2,9 @@
 
 namespace BikeStoreCollab.Properties
 { 
+
    class program
+
     {
         public static void Main(string[]args)
         {
